@@ -1,0 +1,9 @@
+pandas
+numpy
+ipykernel
+openpyxl
+scikit-learn
+Fastapi
+pydantic
+matplotlib
+seaborn
