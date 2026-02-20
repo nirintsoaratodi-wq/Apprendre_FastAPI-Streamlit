@@ -7,3 +7,4 @@ Fastapi
 pydantic
 matplotlib
 seaborn
+uvicorn
